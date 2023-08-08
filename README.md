@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=jearzaga&theme=vue-dark&hide_border=true&border_radius=26&date_format=%5BY.%5Dn.j&mode=weekly&card_width=799&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jearzaga&theme=graywhite&hide_border=true&border_radius=26&date_format=%5BY.%5Dn.j&mode=weekly&card_width=799&type=png)](https://git.io/streak-stats)
